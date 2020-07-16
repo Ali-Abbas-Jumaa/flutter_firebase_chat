@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "518070905808",
+    "firebase_url": "https://final-fb122.firebaseio.com",
+    "project_id": "final-fb122",
+    "storage_bucket": "final-fb122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518070905808:android:557cfce20db42c6d2427d5",
+        "android_client_info": {
+          "package_name": "dev.aliabbas.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518070905808-lfjqus7pctjbpbgeh8s4o7hd5njumnn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClMzvSA6aquOu-0-nLjdOgEkbp5SWp_Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518070905808-lfjqus7pctjbpbgeh8s4o7hd5njumnn8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518070905808-rmpepau2dhgium30pkc60b03mcm1r04i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "test.final"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
